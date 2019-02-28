@@ -1,0 +1,276 @@
+[INFO ] 2019-02-21 16:41:10,924 com.example.configclient.ClientApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-02-21 16:41:29,983 com.example.configclient.ClientApplication - Started ClientApplication in 28.358 seconds (JVM running for 30.028)
+[INFO ] 2019-02-21 16:45:50,301 com.example.configclient.Controller.TestController - 60032
+[INFO ] 2019-02-21 16:45:50,550 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:50,692 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:51,307 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:51,484 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:51,655 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:51,808 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:51,960 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:52,123 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:52,258 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:52,435 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:52,587 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:52,761 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:52,901 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:53,660 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:53,826 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:53,948 com.example.configclient.Controller.TestController - 60033
+[INFO ] 2019-02-21 16:45:54,083 com.example.configclient.Controller.TestController - 60033
+2019-02-21 17:06:51.657 INFO [main][SpringApplication.java:662] - No active profile set, falling back to default profiles: default
+2019-02-21 17:07:11.045 INFO [main][StartupInfoLogger.java:59] - Started ClientApplication in 28.014 seconds (JVM running for 29.712)
+2019-02-21 17:07:33.705 INFO [http-nio-8080-exec-1][TestController.java:40] - 60471
+2019-02-21 17:07:33.889 INFO [http-nio-8080-exec-3][TestController.java:40] - 60471
+2019-02-21 17:07:33.985 INFO [http-nio-8080-exec-5][TestController.java:40] - 60471
+2019-02-21 17:07:34.104 INFO [http-nio-8080-exec-7][TestController.java:40] - 60471
+2019-02-21 17:07:34.233 INFO [http-nio-8080-exec-9][TestController.java:40] - 60471
+2019-02-21 17:07:34.355 INFO [http-nio-8080-exec-1][TestController.java:40] - 60471
+2019-02-21 17:07:50.516 INFO [http-nio-8080-exec-3][TestController.java:40] - 60471
+2019-02-21 17:07:50.654 INFO [http-nio-8080-exec-6][TestController.java:40] - 60471
+2019-02-21 17:07:50.772 INFO [http-nio-8080-exec-7][TestController.java:40] - 60471
+2019-02-21 17:16:17.969 INFO [main][SpringApplication.java:662] - No active profile set, falling back to default profiles: default
+2019-02-21 17:16:34.370 INFO [main][StartupInfoLogger.java:59] - Started ClientApplication in 24.931 seconds (JVM running for 26.541)
+2019-02-21 17:18:55.532 INFO [main][SpringApplication.java:662] - No active profile set, falling back to default profiles: default
+2019-02-21 17:19:09.968 INFO [main][StartupInfoLogger.java:59] - Started ClientApplication in 22.272 seconds (JVM running for 23.548)
+2019-02-21 17:19:18.604 INFO [http-nio-8080-exec-2][TestController.java:40] - 60624
+2019-02-21 17:19:18.604 INFO [http-nio-8080-exec-1][TestController.java:40] - 60623
+2019-02-21 17:19:18.731 INFO [http-nio-8080-exec-3][TestController.java:40] - 60624
+2019-02-21 17:19:18.833 INFO [http-nio-8080-exec-6][TestController.java:40] - 60624
+2019-02-21 17:22:18.650 INFO [main][AbstractApplicationContext.java:590] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43f02ef2: startup date [Thu Feb 21 17:22:18 CST 2019]; root of context hierarchy
+2019-02-21 17:22:19.035 INFO [main][AutowiredAnnotationBeanPostProcessor.java:153] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-02-21 17:22:19.073 INFO [main][PostProcessorRegistrationDelegate.java:326] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ee32e022] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-02-21 17:22:20.181 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2019-02-21 17:22:20.226 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+2019-02-21 17:22:20.291 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+2019-02-21 17:22:20.452 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+2019-02-21 17:22:20.452 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+2019-02-21 17:22:20.562 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+2019-02-21 17:22:20.562 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+2019-02-21 17:22:20.774 INFO [main][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+2019-02-21 17:22:20.792 INFO [main][DiscoveryClient.java:958] - Disable delta property : false
+2019-02-21 17:22:20.792 INFO [main][DiscoveryClient.java:959] - Single vip registry refresh property : null
+2019-02-21 17:22:20.793 INFO [main][DiscoveryClient.java:960] - Force full registry fetch : false
+2019-02-21 17:22:20.793 INFO [main][DiscoveryClient.java:961] - Application is null : false
+2019-02-21 17:22:20.794 INFO [main][DiscoveryClient.java:962] - Registered Applications size is zero : true
+2019-02-21 17:22:20.794 INFO [main][DiscoveryClient.java:964] - Application version is -1: true
+2019-02-21 17:22:20.795 INFO [main][DiscoveryClient.java:1047] - Getting all instance registry info from the eureka server
+2019-02-21 17:22:20.946 INFO [main][DiscoveryClient.java:1056] - The response status is 200
+2019-02-21 17:22:20.949 INFO [main][DiscoveryClient.java:1311] - Not registering with Eureka server per configuration
+2019-02-21 17:22:20.954 INFO [main][DiscoveryClient.java:449] - Discovery Client initialized at timestamp 1550740940953 with initial instances count: 1
+2019-02-21 17:22:22.157 INFO [main][ConfigServicePropertySourceLocator.java:83] - Fetching config from server at: http://localhost:1111/
+2019-02-21 17:22:24.478 INFO [main][ConfigServicePropertySourceLocator.java:142] - Located environment: name=client, profiles=[dev], label=null, version=499f85035915389cab870b8116fee9a398f671f1, state=null
+2019-02-21 17:22:24.478 INFO [main][PropertySourceBootstrapConfiguration.java:98] - Located property source: CompositePropertySource {name='configService', propertySources=[MapPropertySource {name='configClient'}, MapPropertySource {name='https://github.com/1329154840/config.git/client-dev.yml'}, MapPropertySource {name='https://github.com/1329154840/config.git/client.yml'}]}
+2019-02-21 17:22:24.500 INFO [main][SpringApplication.java:662] - No active profile set, falling back to default profiles: default
+2019-02-21 17:22:24.514 INFO [main][AbstractApplicationContext.java:590] - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@70e889e9: startup date [Thu Feb 21 17:22:24 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@43f02ef2
+2019-02-21 17:22:25.381 INFO [main][IntegrationRegistrar.java:349] - No bean named 'integrationHeaderChannelRegistry' has been explicitly defined. Therefore, a default DefaultHeaderChannelRegistry will be created.
+2019-02-21 17:22:25.453 INFO [main][ConfigurationClassBeanDefinitionReader.java:307] - Skipping bean definition for [BeanMethod:name=configurableCompositeMessageConverter,declaringClass=org.springframework.cloud.stream.config.ContentTypeConfiguration]: a definition for bean 'integrationArgumentResolverMessageConverter' already exists. This top-level bean definition is considered as an override.
+2019-02-21 17:22:25.922 INFO [main][GenericScope.java:293] - BeanFactory id=db658a0a-a14f-37ba-ad39-8106301b9c37
+2019-02-21 17:22:25.955 INFO [main][DefaultConfiguringBeanFactoryPostProcessor.java:130] - No bean named 'errorChannel' has been explicitly defined. Therefore, a default PublishSubscribeChannel will be created.
+2019-02-21 17:22:25.958 INFO [main][DefaultConfiguringBeanFactoryPostProcessor.java:158] - No bean named 'taskScheduler' has been explicitly defined. Therefore, a default ThreadPoolTaskScheduler will be created.
+2019-02-21 17:22:25.975 INFO [main][AutowiredAnnotationBeanPostProcessor.java:153] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-02-21 17:22:26.032 INFO [main][PostProcessorRegistrationDelegate.java:326] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$98849b53] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-02-21 17:22:26.300 INFO [main][PostProcessorRegistrationDelegate.java:326] - Bean 'org.springframework.integration.config.IntegrationManagementConfiguration' of type [org.springframework.integration.config.IntegrationManagementConfiguration$$EnhancerBySpringCGLIB$$3d0a9854] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-02-21 17:22:26.360 INFO [main][PostProcessorRegistrationDelegate.java:326] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ee32e022] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-02-21 17:22:26.881 INFO [main][TomcatWebServer.java:91] - Tomcat initialized with port(s): 8080 (http)
+2019-02-21 17:22:26.893 INFO [main][DirectJDKLog.java:180] - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-21 17:22:26.908 INFO [main][DirectJDKLog.java:180] - Starting service [Tomcat]
+2019-02-21 17:22:26.911 INFO [main][DirectJDKLog.java:180] - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-02-21 17:22:26.915 INFO [localhost-startStop-1][DirectJDKLog.java:180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/yezuoyao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-02-21 17:22:27.097 INFO [localhost-startStop-1][DirectJDKLog.java:180] - Initializing Spring embedded WebApplicationContext
+2019-02-21 17:22:27.097 INFO [localhost-startStop-1][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2583 ms
+2019-02-21 17:22:29.302 INFO [localhost-startStop-1][InetUtils.java:170] - Cannot determine local hostname
+2019-02-21 17:22:30.346 INFO [localhost-startStop-1][InetUtils.java:170] - Cannot determine local hostname
+2019-02-21 17:22:31.037 INFO [localhost-startStop-1][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService  'taskScheduler'
+2019-02-21 17:22:31.558 WARN [localhost-startStop-1][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2019-02-21 17:22:31.558 INFO [localhost-startStop-1][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-02-21 17:22:31.563 INFO [localhost-startStop-1][DynamicPropertyFactory.java:281] - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@776d7f
+2019-02-21 17:22:31.710 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-21 17:22:31.711 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'webMvcMetricsFilter' to: [/*]
+2019-02-21 17:22:31.711 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'tracingFilter' to: [/*]
+2019-02-21 17:22:31.712 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'exceptionLoggingFilter' to: [/*]
+2019-02-21 17:22:31.712 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-21 17:22:31.712 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-21 17:22:31.713 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-21 17:22:31.713 INFO [localhost-startStop-1][AbstractFilterRegistrationBean.java:245] - Mapping filter: 'httpTraceFilter' to: [/*]
+2019-02-21 17:22:31.714 INFO [localhost-startStop-1][ServletRegistrationBean.java:187] - Servlet proxyStreamServlet mapped to [/proxy.stream]
+2019-02-21 17:22:31.715 INFO [localhost-startStop-1][ServletRegistrationBean.java:187] - Servlet dispatcherServlet mapped to [/]
+2019-02-21 17:22:31.716 INFO [localhost-startStop-1][ServletEndpointRegistrar.java:70] - Registered '/actuator/hystrix.stream' to hystrix.stream-actuator-endpoint
+2019-02-21 17:22:31.876 INFO [main][SpringTemplateLoader.java:62] - SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@70e889e9: startup date [Thu Feb 21 17:22:24 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@43f02ef2] and template loader path [classpath:/templates/]
+2019-02-21 17:22:31.878 INFO [main][FreeMarkerConfigurer.java:131] - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2019-02-21 17:22:31.941 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2019-02-21 17:22:31.942 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-02-21 17:22:32.074 INFO [main][AbstractUrlHandlerMapping.java:373] - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-21 17:22:32.283 INFO [main][RequestMappingHandlerAdapter.java:574] - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@70e889e9: startup date [Thu Feb 21 17:22:24 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@43f02ef2
+2019-02-21 17:22:32.364 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/hystrixtest]}" onto public java.lang.String com.example.configclient.Controller.HystrixController.hystrixTest(java.lang.String)
+2019-02-21 17:22:32.366 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/]}" onto public java.lang.String com.example.configclient.Controller.TestController.test(javax.servlet.http.HttpServletRequest)
+2019-02-21 17:22:32.367 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/login]}" onto public java.lang.String com.example.configclient.Controller.TestController.login(javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest,java.lang.String)
+2019-02-21 17:22:32.368 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/hystrix/{path}]}" onto public java.lang.String org.springframework.cloud.netflix.hystrix.dashboard.HystrixDashboardController.monitor(java.lang.String,org.springframework.ui.Model,org.springframework.web.context.request.WebRequest)
+2019-02-21 17:22:32.368 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/hystrix]}" onto public java.lang.String org.springframework.cloud.netflix.hystrix.dashboard.HystrixDashboardController.home(org.springframework.ui.Model,org.springframework.web.context.request.WebRequest)
+2019-02-21 17:22:32.371 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-21 17:22:32.371 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-21 17:22:32.439 INFO [main][AbstractUrlHandlerMapping.java:373] - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-21 17:22:32.439 INFO [main][AbstractUrlHandlerMapping.java:373] - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-21 17:22:34.126 INFO [main][DiscoveryClient.java:888] - Shutting down DiscoveryClient ...
+2019-02-21 17:22:34.178 INFO [main][DiscoveryClient.java:911] - Completed shut down of DiscoveryClient
+2019-02-21 17:22:34.359 INFO [main][EndpointLinksResolver.java:59] - Exposing 23 endpoint(s) beneath base path '/actuator'
+2019-02-21 17:22:34.373 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/archaius],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.375 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/auditevents],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.376 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/beans],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.376 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.377 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/conditions],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.377 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/configprops],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.378 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/env],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.378 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/env/{toMatch}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.379 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/env],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v2+json || application/json],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.380 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/env],methods=[DELETE],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.381 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.381 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/loggers],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.382 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/loggers/{name}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.382 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/loggers/{name}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.383 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/heapdump],methods=[GET],produces=[application/octet-stream]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.383 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/threaddump],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.384 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/metrics/{requiredMetricName}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.384 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/metrics],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.385 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/scheduledtasks],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.386 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/httptrace],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.386 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/mappings],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.387 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/refresh],methods=[POST],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.387 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/bus-env],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.388 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/bus-env/{destination}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.388 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/bus-refresh/{destination}],methods=[POST]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.389 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/bus-refresh],methods=[POST]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.390 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/features],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.391 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/service-registry],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.392 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/service-registry],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v2+json || application/json],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.392 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/bindings/{name}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.393 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/bindings],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.393 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/bindings/{name}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.394 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator/channels],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-02-21 17:22:34.396 INFO [main][AbstractHandlerMethodMapping.java:547] - Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-21 17:22:34.643 INFO [main][MBeanExporter.java:433] - Registering beans for JMX exposure on startup
+2019-02-21 17:22:34.661 INFO [main][MBeanExporter.java:895] - Bean with name 'rabbitConnectionFactory' has been autodetected for JMX exposure
+2019-02-21 17:22:34.663 INFO [main][MBeanExporter.java:895] - Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-02-21 17:22:34.665 INFO [main][MBeanExporter.java:895] - Bean with name 'integrationMbeanExporter' has been autodetected for JMX exposure
+2019-02-21 17:22:34.668 INFO [main][MBeanExporter.java:895] - Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-02-21 17:22:34.670 INFO [main][MBeanExporter.java:895] - Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-02-21 17:22:34.679 INFO [main][MBeanExporter.java:675] - Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-02-21 17:22:34.693 INFO [main][MBeanExporter.java:675] - Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-02-21 17:22:34.708 INFO [main][MBeanExporter.java:675] - Located managed bean 'integrationMbeanExporter': registering with JMX server as MBean [org.springframework.integration.monitor:name=integrationMbeanExporter,type=IntegrationMBeanExporter]
+2019-02-21 17:22:34.739 INFO [main][MBeanExporter.java:675] - Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=70e889e9,type=ConfigurationPropertiesRebinder]
+2019-02-21 17:22:35.046 INFO [main][MBeanExporter.java:675] - Located managed bean 'rabbitConnectionFactory': registering with JMX server as MBean [org.springframework.amqp.rabbit.connection:name=rabbitConnectionFactory,type=CachingConnectionFactory]
+2019-02-21 17:22:35.072 INFO [main][MBeanExporter.java:433] - Registering beans for JMX exposure on startup
+2019-02-21 17:22:35.073 INFO [main][IntegrationMBeanExporter.java:639] - Registering MessageChannel springCloudBusInput
+2019-02-21 17:22:35.077 INFO [main][MBeanExporter.java:675] - Located managed bean 'org.springframework.integration:type=MessageChannel,name=springCloudBusInput': registering with JMX server as MBean [org.springframework.integration:type=MessageChannel,name=springCloudBusInput]
+2019-02-21 17:22:35.108 INFO [main][IntegrationMBeanExporter.java:639] - Registering MessageChannel springCloudBusOutput
+2019-02-21 17:22:35.110 INFO [main][MBeanExporter.java:675] - Located managed bean 'org.springframework.integration:type=MessageChannel,name=springCloudBusOutput': registering with JMX server as MBean [org.springframework.integration:type=MessageChannel,name=springCloudBusOutput]
+2019-02-21 17:22:35.117 INFO [main][IntegrationMBeanExporter.java:639] - Registering MessageChannel nullChannel
+2019-02-21 17:22:35.119 INFO [main][MBeanExporter.java:675] - Located managed bean 'org.springframework.integration:type=MessageChannel,name=nullChannel': registering with JMX server as MBean [org.springframework.integration:type=MessageChannel,name=nullChannel]
+2019-02-21 17:22:35.126 INFO [main][IntegrationMBeanExporter.java:639] - Registering MessageChannel errorChannel
+2019-02-21 17:22:35.128 INFO [main][MBeanExporter.java:675] - Located managed bean 'org.springframework.integration:type=MessageChannel,name=errorChannel': registering with JMX server as MBean [org.springframework.integration:type=MessageChannel,name=errorChannel]
+2019-02-21 17:22:35.151 INFO [main][IntegrationMBeanExporter.java:656] - Registering MessageHandler errorLogger
+2019-02-21 17:22:35.154 INFO [main][MBeanExporter.java:675] - Located managed bean 'org.springframework.integration:type=MessageHandler,name=errorLogger,bean=internal': registering with JMX server as MBean [org.springframework.integration:type=MessageHandler,name=errorLogger,bean=internal]
+2019-02-21 17:22:35.204 INFO [main][AbstractSubscribableChannel.java:64] - Channel 'client-1.springCloudBusInput' has 1 subscriber(s).
+2019-02-21 17:22:35.211 INFO [main][DefaultLifecycleProcessor.java:351] - Starting beans in phase -2147482648
+2019-02-21 17:22:36.264 INFO [main][ConfigServicePropertySourceLocator.java:83] - Fetching config from server at: http://localhost:1111/
+2019-02-21 17:22:38.564 INFO [main][ConfigServicePropertySourceLocator.java:142] - Located environment: name=client, profiles=[dev], label=null, version=499f85035915389cab870b8116fee9a398f671f1, state=null
+2019-02-21 17:22:38.564 INFO [main][PropertySourceBootstrapConfiguration.java:98] - Located property source: CompositePropertySource {name='configService', propertySources=[MapPropertySource {name='configClient'}, MapPropertySource {name='https://github.com/1329154840/config.git/client-dev.yml'}, MapPropertySource {name='https://github.com/1329154840/config.git/client.yml'}]}
+2019-02-21 17:22:38.584 INFO [main][AbstractApplicationContext.java:590] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1f3f434: startup date [Thu Feb 21 17:22:38 CST 2019]; parent: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@70e889e9
+2019-02-21 17:22:38.634 INFO [main][AutowiredAnnotationBeanPostProcessor.java:153] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-02-21 17:22:38.688 INFO [main][AbstractApplicationContext.java:590] - Refreshing org.springframework.context.support.GenericApplicationContext@34f48d1: startup date [Thu Feb 21 17:22:38 CST 2019]; root of context hierarchy
+2019-02-21 17:22:38.837 INFO [main][AbstractConnectionFactory.java:455] - Attempting to connect to: [127.0.0.1:5672]
+2019-02-21 17:22:38.877 INFO [main][AbstractConnectionFactory.java:471] - Created new connection: rabbitConnectionFactory#3fa9718a:0/SimpleConnection@121dce2 [delegate=amqp://guest@127.0.0.1:5672/, localPort= 60694]
+2019-02-21 17:22:38.945 INFO [main][AbstractSubscribableChannel.java:64] - Channel 'client-1.springCloudBusOutput' has 1 subscriber(s).
+2019-02-21 17:22:38.947 INFO [main][DefaultLifecycleProcessor.java:351] - Starting beans in phase 0
+2019-02-21 17:22:38.952 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+2019-02-21 17:22:38.960 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+2019-02-21 17:22:38.965 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+2019-02-21 17:22:38.965 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+2019-02-21 17:22:38.966 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+2019-02-21 17:22:38.966 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+2019-02-21 17:22:39.024 INFO [main][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+2019-02-21 17:22:39.029 INFO [main][DiscoveryClient.java:958] - Disable delta property : false
+2019-02-21 17:22:39.029 INFO [main][DiscoveryClient.java:959] - Single vip registry refresh property : null
+2019-02-21 17:22:39.029 INFO [main][DiscoveryClient.java:960] - Force full registry fetch : false
+2019-02-21 17:22:39.029 INFO [main][DiscoveryClient.java:961] - Application is null : false
+2019-02-21 17:22:39.030 INFO [main][DiscoveryClient.java:962] - Registered Applications size is zero : true
+2019-02-21 17:22:39.030 INFO [main][DiscoveryClient.java:964] - Application version is -1: true
+2019-02-21 17:22:39.031 INFO [main][DiscoveryClient.java:1047] - Getting all instance registry info from the eureka server
+2019-02-21 17:22:39.034 INFO [main][DiscoveryClient.java:1056] - The response status is 200
+2019-02-21 17:22:39.035 INFO [main][DiscoveryClient.java:1264] - Starting heartbeat executor: renew interval is: 30
+2019-02-21 17:22:39.037 INFO [main][InstanceInfoReplicator.java:60] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-02-21 17:22:39.039 INFO [main][DiscoveryClient.java:449] - Discovery Client initialized at timestamp 1550740959039 with initial instances count: 1
+2019-02-21 17:22:39.054 INFO [main][EurekaServiceRegistry.java:42] - Registering application client with eureka with status UP
+2019-02-21 17:22:39.055 INFO [main][DiscoveryClient.java:1299] - Saw local status change event StatusChangeEvent [timestamp=1550740959055, current=UP, previous=STARTING]
+2019-02-21 17:22:39.058 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:826] - DiscoveryClient_CLIENT/localhost:client:8080: registering service...
+2019-02-21 17:22:39.062 INFO [main][EventDrivenConsumer.java:107] - Adding {logging-channel-adapter:_org.springframework.integration.errorLogger} as a subscriber to the 'errorChannel' channel
+2019-02-21 17:22:39.063 INFO [main][AbstractSubscribableChannel.java:64] - Channel 'client-1.errorChannel' has 1 subscriber(s).
+2019-02-21 17:22:39.063 INFO [main][AbstractEndpoint.java:165] - started _org.springframework.integration.errorLogger
+2019-02-21 17:22:39.063 INFO [main][DefaultLifecycleProcessor.java:351] - Starting beans in phase 2147482647
+2019-02-21 17:22:39.102 INFO [main][RabbitExchangeQueueProvisioner.java:136] - declaring queue for inbound: springCloudBus.anonymous.T0frjUdURqmfuRbuUuh3bA, bound to: springCloudBus
+2019-02-21 17:22:39.134 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:835] - DiscoveryClient_CLIENT/localhost:client:8080 - registration status: 204
+2019-02-21 17:22:39.142 INFO [main][AbstractSubscribableChannel.java:64] - Channel 'client-1-1.springCloudBus.anonymous.T0frjUdURqmfuRbuUuh3bA.errors' has 1 subscriber(s).
+2019-02-21 17:22:39.143 INFO [main][AbstractSubscribableChannel.java:64] - Channel 'client-1-1.springCloudBus.anonymous.T0frjUdURqmfuRbuUuh3bA.errors' has 2 subscriber(s).
+2019-02-21 17:22:39.170 INFO [main][AbstractEndpoint.java:165] - started inbound.springCloudBus.anonymous.T0frjUdURqmfuRbuUuh3bA
+2019-02-21 17:22:39.172 INFO [main][DefaultLifecycleProcessor.java:351] - Starting beans in phase 2147483647
+2019-02-21 17:22:39.228 INFO [main][DirectJDKLog.java:180] - Starting ProtocolHandler ["http-nio-8080"]
+2019-02-21 17:22:39.256 INFO [main][DirectJDKLog.java:180] - Using a shared selector for servlet write/read
+2019-02-21 17:22:39.279 INFO [main][TomcatWebServer.java:206] - Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-21 17:22:39.280 INFO [main][EurekaAutoServiceRegistration.java:124] - Updating port to 8080
+2019-02-21 17:22:39.287 INFO [main][StartupInfoLogger.java:59] - Started ClientApplication in 22.265 seconds (JVM running for 23.403)
+2019-02-21 17:22:39.686 INFO [RMI TCP Connection(2)-172.16.30.202][DirectJDKLog.java:180] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-02-21 17:22:39.687 INFO [RMI TCP Connection(2)-172.16.30.202][FrameworkServlet.java:494] - FrameworkServlet 'dispatcherServlet': initialization started
+2019-02-21 17:22:39.691 INFO [RMI TCP Connection(3)-172.16.30.202][ConfigServicePropertySourceLocator.java:83] - Fetching config from server at: http://localhost:1111/
+2019-02-21 17:22:39.720 INFO [RMI TCP Connection(2)-172.16.30.202][FrameworkServlet.java:509] - FrameworkServlet 'dispatcherServlet': initialization completed in 33 ms
+2019-02-21 17:22:42.013 INFO [RMI TCP Connection(3)-172.16.30.202][ConfigServicePropertySourceLocator.java:142] - Located environment: name=client, profiles=[dev], label=null, version=499f85035915389cab870b8116fee9a398f671f1, state=null
+2019-02-21 17:23:09.034 INFO [http-nio-8080-exec-1][TestController.java:40] - 60702
+2019-02-21 17:23:16.646 INFO [Thread-53][AbstractApplicationContext.java:993] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@70e889e9: startup date [Thu Feb 21 17:22:24 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@43f02ef2
+2019-02-21 17:23:16.647 INFO [Thread-53][EurekaServiceRegistry.java:65] - Unregistering application client with eureka with status DOWN
+2019-02-21 17:23:16.648 WARN [Thread-53][DiscoveryClient.java:1297] - Saw local status change event StatusChangeEvent [timestamp=1550740996648, current=DOWN, previous=UP]
+2019-02-21 17:23:16.648 INFO [Thread-53][AbstractApplicationContext.java:993] - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1f3f434: startup date [Thu Feb 21 17:22:38 CST 2019]; parent: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@70e889e9
+2019-02-21 17:23:16.648 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:826] - DiscoveryClient_CLIENT/localhost:client:8080: registering service...
+2019-02-21 17:23:16.654 INFO [Thread-53][DefaultLifecycleProcessor.java:366] - Stopping beans in phase 2147483647
+2019-02-21 17:23:16.663 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:835] - DiscoveryClient_CLIENT/localhost:client:8080 - registration status: 204
+2019-02-21 17:23:16.667 INFO [Thread-53][SimpleMessageListenerContainer.java:534] - Waiting for workers to finish.
+2019-02-21 17:23:17.312 INFO [Thread-53][SimpleMessageListenerContainer.java:537] - Successfully waited for workers to finish.
+2019-02-21 17:23:17.315 INFO [Thread-53][SimpleMessageListenerContainer.java:534] - Waiting for workers to finish.
+2019-02-21 17:23:18.311 INFO [Thread-53][SimpleMessageListenerContainer.java:537] - Successfully waited for workers to finish.
+2019-02-21 17:23:18.312 INFO [Thread-53][DefaultLifecycleProcessor.java:366] - Stopping beans in phase 2147482647
+2019-02-21 17:23:18.333 INFO [Thread-53][SimpleMessageListenerContainer.java:534] - Waiting for workers to finish.
+2019-02-21 17:23:19.293 INFO [Thread-53][SimpleMessageListenerContainer.java:537] - Successfully waited for workers to finish.
+2019-02-21 17:23:19.293 INFO [Thread-53][AbstractEndpoint.java:182] - stopped inbound.springCloudBus.anonymous.T0frjUdURqmfuRbuUuh3bA
+2019-02-21 17:23:19.294 INFO [Thread-53][DefaultLifecycleProcessor.java:366] - Stopping beans in phase 0
+2019-02-21 17:23:19.297 INFO [Thread-53][EventDrivenConsumer.java:107] - Removing {logging-channel-adapter:_org.springframework.integration.errorLogger} as a subscriber to the 'errorChannel' channel
+2019-02-21 17:23:19.298 INFO [Thread-53][AbstractSubscribableChannel.java:64] - Channel 'client-1.errorChannel' has 0 subscriber(s).
+2019-02-21 17:23:19.298 INFO [Thread-53][AbstractEndpoint.java:199] - stopped _org.springframework.integration.errorLogger
+2019-02-21 17:23:19.298 INFO [Thread-53][DefaultLifecycleProcessor.java:366] - Stopping beans in phase -2147482648
+2019-02-21 17:23:19.302 INFO [Thread-53][MBeanExporter.java:451] - Unregistering JMX-exposed beans on shutdown
+2019-02-21 17:23:19.303 INFO [Thread-53][MBeanRegistrationSupport.java:185] - Unregistering JMX-exposed beans
+2019-02-21 17:23:19.304 INFO [Thread-53][IntegrationMBeanExporter.java:367] - Summary on shutdown: springCloudBusInput
+2019-02-21 17:23:19.304 INFO [Thread-53][IntegrationMBeanExporter.java:367] - Summary on shutdown: springCloudBusOutput
+2019-02-21 17:23:19.304 INFO [Thread-53][IntegrationMBeanExporter.java:367] - Summary on shutdown: nullChannel
+2019-02-21 17:23:19.304 INFO [Thread-53][IntegrationMBeanExporter.java:367] - Summary on shutdown: errorChannel
+2019-02-21 17:23:19.304 INFO [Thread-53][IntegrationMBeanExporter.java:370] - Summary on shutdown: _org.springframework.integration.errorLogger.handler
+2019-02-21 17:23:19.305 INFO [Thread-53][MBeanExporter.java:451] - Unregistering JMX-exposed beans on shutdown
+2019-02-21 17:23:19.305 INFO [Thread-53][MBeanRegistrationSupport.java:185] - Unregistering JMX-exposed beans
+2019-02-21 17:23:19.306 INFO [Thread-53][AbstractMessageListenerContainer.java:1089] - Shutdown ignored - container is not active already
+2019-02-21 17:23:19.306 INFO [Thread-53][AbstractMessageListenerContainer.java:1089] - Shutdown ignored - container is not active already
+2019-02-21 17:23:19.318 INFO [Thread-53][ExecutorConfigurationSupport.java:208] - Shutting down ExecutorService 'taskScheduler'
+2019-02-21 17:23:19.320 INFO [Thread-53][DiscoveryClient.java:888] - Shutting down DiscoveryClient ...
+2019-02-21 17:23:22.324 INFO [Thread-53][DiscoveryClient.java:922] - Unregistering ...
+2019-02-21 17:23:22.333 INFO [Thread-53][DiscoveryClient.java:924] - DiscoveryClient_CLIENT/localhost:client:8080 - deregister  status: 200
+2019-02-21 17:23:22.341 INFO [Thread-53][DiscoveryClient.java:911] - Completed shut down of DiscoveryClient
+2019-02-21 17:26:36.746 INFO [main][SpringApplication.java:662] - No active profile set, falling back to default profiles: default
+2019-02-21 17:26:53.193 INFO [main][StartupInfoLogger.java:59] - Started ClientApplication in 24.44 seconds (JVM running for 26.192)
+2019-02-21 17:27:00.930 INFO [http-nio-8080-exec-1][TestController.java:40] - 60804
+2019-02-21 17:27:04.551 INFO [http-nio-8080-exec-3][TestController.java:40] - 60804
+2019-02-21 17:27:04.767 INFO [http-nio-8080-exec-5][TestController.java:40] - 60804
+2019-02-21 17:27:11.511 INFO [http-nio-8080-exec-8][TestController.java:40] - 60804
+2019-02-21 17:27:11.732 INFO [http-nio-8080-exec-10][TestController.java:40] - 60804
+2019-02-21 17:27:11.882 INFO [http-nio-8080-exec-2][TestController.java:40] - 60804
+2019-02-21 17:27:12.125 INFO [http-nio-8080-exec-4][TestController.java:40] - 60804
+2019-02-21 17:27:12.457 INFO [http-nio-8080-exec-6][TestController.java:40] - 60804
+2019-02-21 17:27:13.195 INFO [http-nio-8080-exec-8][TestController.java:40] - 60804
+2019-02-21 17:27:13.399 INFO [http-nio-8080-exec-10][TestController.java:40] - 60804
+2019-02-21 17:27:14.332 INFO [http-nio-8080-exec-2][TestController.java:40] - 60804
+2019-02-21 17:27:14.501 INFO [http-nio-8080-exec-4][TestController.java:40] - 60804
